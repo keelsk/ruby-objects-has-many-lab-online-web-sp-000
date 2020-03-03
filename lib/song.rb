@@ -20,6 +20,7 @@ class Song
   def artist_name
     @result = nil
     @result = self.artist.name
+    @result
   end
   
 end
