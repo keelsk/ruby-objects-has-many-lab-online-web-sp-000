@@ -16,9 +16,6 @@ class Song
     @name
   end
   
-  def artist
-    
-  end
   
   def artist_name
     
