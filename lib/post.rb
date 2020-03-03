@@ -16,10 +16,6 @@ class Post
     @title
   end
   
-  def author
-    
-  end
-  
   def author_name
     
   end
